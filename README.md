@@ -1,5 +1,5 @@
 ## Hi there 👋
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chrisstineline" alt="chrisstineline" /></a> </p>
+
 
 Here are some ideas to get you started:
 
