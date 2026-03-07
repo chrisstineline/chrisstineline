@@ -4,7 +4,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on PantMig, HackTheGPT, an AGI/RSI design
-    - I got bored and made **AN** --unnamed-- Algorithm:  a budget-constrained Markov chain optimizer using simulated annealing with adaptive temperature control and stability detection. It solves optimization problems where evaluation budget is limited—a critical constraint in real-world scenarios like neural architecture search, molecular discovery, and supply chain optimization.
+    - I  made **AN** --unnamed-- Algorithm:  a budget-constrained Markov chain optimizer using simulated annealing with adaptive temperature control and stability detection. It solves optimization problems where evaluation budget is limited—a critical constraint in real-world scenarios like neural architecture search, molecular discovery, and supply chain optimization.
   Unique aspects:
     Budget-aware design: Explicitly optimizes within budget constraints rather than ignoring them. No other algorithm specifically targets this problem.
     Adaptive temperature: Dynamically adjusts exploration-exploitation balance based on energy transitions, improving convergence.
