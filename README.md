@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on DoD Network issues and exploiting ChatGPT (I used dislike AI, but it's handy) 
 - 🤔 I’m looking for things to take apart (Mainly others things =) )
 - 💬 Ask me about PantMig, PK, MR, 
-- 📫 How to reach me: LinkedIn, Discord (clankercontroller / u~u 
+- 📫 How to reach me: LinkedIn, Discord (clankercontroller / u~u)
 - ⚡ Fun fact: yes
 
