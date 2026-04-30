@@ -12,10 +12,10 @@ Here are some ideas to get you started:
     * Simplicity & speed: ~500 lines, minimal dependencies (numpy, networkx), deterministic results unlike probabilistic methods.
     * Interpretability: Easy to understand, modify, and integrate into existing workflows.
     * Perfect for domains where evaluation cost is prohibitive or real-world constraints mandate limited function calls.  
-- 🌱 I’m currently learning Java, MySQL, ReactNative, JS and other stuffs, like CMS/ Payload, SEO.
+- 🌱 I’m currently learning Java, ReactNative, JS and other stuffs, like CMS/ Payload, SEO.
 - 👯 I’m looking to collaborate on DoD Network issues and exploiting ChatGPT (I used dislike AI, but it's handy) 
 - 🤔 I’m looking for things to take apart (Mainly others things =) )
-- 💬 Ask me about PantMig, PK, MR, 
+- 💬 Ask me about PantMig, PK, MR, EDSP, Win98 
 - 📫 How to reach me: LinkedIn, Discord (clankercontroller / u~u)
 - ⚡ Fun fact: yes
 
